@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790464367905",
+    "project_id": "finora-65d6b",
+    "storage_bucket": "finora-65d6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790464367905:android:3bcd9a25423da585744260",
+        "android_client_info": {
+          "package_name": "com.example.finance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-1bLtzDEyNqhxSY-OM_rjMBmLm_ARoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
